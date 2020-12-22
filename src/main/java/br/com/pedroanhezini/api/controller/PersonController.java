@@ -40,5 +40,4 @@ public class PersonController {
         personFacade.delete(id);
     }
 
-
 }
